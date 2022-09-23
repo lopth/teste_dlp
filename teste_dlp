@@ -1,5 +1,15 @@
-<?php
-ECHO "Hello!<br>";
-echo "Welcome to Developer News<br>";
-EcHo "Enjoy all of the ad-free articles<br>";
-?>
+<html>  
+<head>  
+<script type="text/javascript">  
+function msg(){  
+ alert("Hello Javatpoint");  
+}  
+</script>  
+</head>  
+<body>  
+<p>Welcome to JavaScript</p>  
+<form>  
+<input type="button" value="click" onclick="msg()"/>  
+</form>  
+</body>  
+</html>
